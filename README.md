@@ -20,6 +20,8 @@
 
 圖片下載器，可供使用者下載並且預覽圖片。
 
+####備註:
+
 Wallpaper_DL.exe可以單獨使用，或是使用其餘原始碼也可操作。
 
 預設下載區域為src/pic 可以將其改為電腦之絕對路徑，方便使用者使用。
@@ -43,17 +45,21 @@ Wallpaper_DL.exe可以單獨使用，或是使用其餘原始碼也可操作。
 
 ### 使用範例1
 
+以sky為主題搜尋並預覽
 ![以sky為主題搜尋並預覽](https://i.imgur.com/jn7yBNZ.jpg)
 
 ### 使用範例2
 
+查看相簿下一頁
 ![查看相簿下一頁](https://i.imgur.com/tlCzkjn.jpg)
 
 ### 使用範例3
 
+點選相簿小圖以放大顯示
 ![點選相簿小圖以放大顯示](https://i.imgur.com/PEdWqfP.jpg)
 
 ### 使用範例4
 
+以"sk"搜尋仍可找到sky結果
 ![以"sk"搜尋仍可找到sky結果](https://i.imgur.com/puL69r5.jpg)
 
