@@ -1,4 +1,4 @@
-# 桌度下載器(JAVA)
+# 桌布下載器(JAVA)
 
 [2019 NCKU JAVA 期末project] 
 
